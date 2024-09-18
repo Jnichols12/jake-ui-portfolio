@@ -3,15 +3,15 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My UI Portfolio",
+  title: "Jake Nichols UI Portfolio",
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://your-domain.com", // Replace with your actual domain
+  url: "https://jnichols12.github.io/", // Replace with your actual domain
   baseUrl: "/",
 
-  organizationName: "your-org", // Replace with your GitHub org/user name
-  projectName: "my-ui-portfolio", // Replace with your repo/project name
+  organizationName: "jnichols12", // Replace with your GitHub org/user name
+  projectName: "jake-ui-portfolio", // Replace with your repo/project name
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
