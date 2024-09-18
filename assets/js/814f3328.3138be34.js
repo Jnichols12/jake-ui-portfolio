@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Example Blog Post","permalink":"/jake-ui-portfolio/blog/example-blog-post","unlisted":false,"date":"2024-08-26T14:30:00.000Z"}]}')}}]);
