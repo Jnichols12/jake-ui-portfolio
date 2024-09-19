@@ -4,19 +4,41 @@
         <title>Jake Nichols UI Portfolio Blog</title>
         <link>https://jnichols12.github.io/jake-ui-portfolio/blog</link>
         <description>Jake Nichols UI Portfolio Blog</description>
-        <lastBuildDate>Mon, 26 Aug 2024 14:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 19:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Example Blog Post]]></title>
-            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/example-blog-post</link>
-            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/example-blog-post</guid>
-            <pubDate>Mon, 26 Aug 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[This is an example of a blog post for a homework assignment with an assigned reading.]]></description>
-            <content:encoded><![CDATA[<p>This is an example of a blog post for a homework assignment with an assigned reading.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content:encoded>
-            <category>FreeForm</category>
+            <title><![CDATA[Aesthetic Design - How to Design Effective Slides]]></title>
+            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/aesthetic-design</link>
+            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/aesthetic-design</guid>
+            <pubDate>Wed, 18 Sep 2024 19:49:00 GMT</pubDate>
+            <description><![CDATA[The following tutorial contains key points & reminders from Presentation Zen on how to create attention-grabbing/effective PowerPoint slides.]]></description>
+            <content:encoded><![CDATA[<p><em>The following tutorial contains key points &amp; reminders from Presentation Zen on how to create attention-grabbing/effective PowerPoint slides.</em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/presentation_stock-b8059233ce7b2e3dabee2892be754d00.jpeg" title="Example Presentations w/ Good Formatting" width="5477" height="2739" class="img_ev3q">
+</p><p style="text-align:center">An example of simple but effective slides.</p><p></p>
+<p>Avoid Bullet-Points (mostly)</p>
+<ul>
+<li>Bullet-points are often used as a crutch in slide design with most of the words to be spoken, but they should be used sparingly.</li>
+<li>You can get away with including much less of what you're going to say on the slides, or you can break up lists into multiple slides with one or two key points each.</li>
+</ul>
+<p>Pay Attention to Eyes</p>
+<ul>
+<li>When including images of people or animals, make sure the eyes don't lead users away from slide content.</li>
+<li>Try to use images where the eyes point at your content, and flip/rearrange images that don't.</li>
+</ul>
+<p>Break Up Large Quotes (if necessary)</p>
+<ul>
+<li>Longer quotes can be easier to read in chunks instead of a one large block.</li>
+<li>If doing this, break it down into distinct sections on different slides &amp; focus in on the significance of each one.</li>
+</ul>
+<p>Eliminate Noise Around Charts</p>
+<ul>
+<li>Make sure background colors &amp; images don't conflict with the viewer's ability to read a read any elements of charts.</li>
+<li>Select simple graph layouts (2D is almost always better than 3D).</li>
+<li>Choose colors for graph elements that work well together &amp; don't distract from information.</li>
+</ul>]]></content:encoded>
+            <category>Tutorial</category>
         </item>
     </channel>
 </rss>

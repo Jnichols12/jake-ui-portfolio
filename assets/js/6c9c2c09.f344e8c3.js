@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[218],{9085:e=>{e.exports=JSON.parse('{"tags":[{"label":"Tutorial","permalink":"/jake-ui-portfolio/blog/tags/tutorial","description":"Write a tutorial on a task discussed in the reading, adding context for future reference.","count":1}]}')}}]);
