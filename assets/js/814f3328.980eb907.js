@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Aesthetic Design - How to Design Effective Slides","permalink":"/jake-ui-portfolio/blog/aesthetic-design","unlisted":false}]}')}}]);
