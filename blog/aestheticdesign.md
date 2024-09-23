@@ -1,6 +1,6 @@
 ---
 title: Aesthetic Design - How to Design Effective Slides
-author: Jake Nichols
+authors: jake
 slug: /aesthetic-design
 date: 2024-09-18T19:49:00Z
 tags: [tutorial]
