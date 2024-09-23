@@ -7,7 +7,7 @@ tags: [tutorial]
 ---
 
 
-*The following tutorial contains key points & reminders from Presentation Zen on how to create attention-grabbing/effective PowerPoint slides.*
+*The following tutorial contains key points & reminders from Presentation Zen[^1] on how to create attention-grabbing/effective PowerPoint slides.*
 
 ![Alt text](/img/presentation_stock.jpeg "Example Presentations w/ Good Formatting")
 <p style={{textAlign: "center"}}>An example of simple but effective slides</p>
@@ -40,3 +40,5 @@ Eliminate Noise Around Charts
     + Select simple graph layouts (2D is almost always better than 3D).
     + Choose colors for graph elements that work well together & don't distract from information.
 
+
+    [^1]: Reynolds, Garr. Presentation Zen: Simple Ideas on Presentation Design and Delivery. Pearson Education, 2019. 
