@@ -51,4 +51,32 @@
         </author>
         <category label="Tutorial" term="Tutorial"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of Shneiderman - The Eyes Have It]]></title>
+        <id>https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis</id>
+        <link href="https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis"/>
+        <updated>2024-09-06T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post is a meta reflection on Ben Shneiderman's paper, "The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations" as well as a reflection on the importance of this paper's concepts in the industry.]]></summary>
+        <content type="html"><![CDATA[<p><em>This blog post is a meta reflection on Ben Shneiderman's paper, "The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations"<sup><a id="user-content-fnref-1-5da721" data-footnote-ref="true" aria-describedby="footnote-label" href="https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis#user-content-fn-1-5da721">1</a></sup> as well as a reflection on the importance of this paper's concepts in the industry.</em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/tunnel_vision-565df1a7f50d952add711ac357c6eac8.jpeg" title="Tunnel Vision" width="5856" height="3904" class="img_ev3q">
+</p><p style="text-align:center">Artistic Depiction of Tunnel Vision</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I found a lot of this paper to be bogged down in implementation details of specific problems/solutions which I don't find terribly helpful when trying to learn a concept.
+It's okay to provide examples, but the section on "Overview" for example felt overly-specific. I don't see as much value in talking about specific zoom factors and field-of-view boxes when introducing a concept in a paper like this.
+I would've preferred more high-level explanation &amp; justification for the techniques personally.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As far as career importance, the meta point would be to avoid getting caught up in implementation details when having conversations with non-technical stakeholders (or even technical stakeholders in certain cases).
+In terms of the actual content of the reading, the principles themselves that were outlined are important to keep in mind while building a UI as they're good guidelines &amp; standards for guiding a user's interaction with your interface.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes" href="https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis#footnote-label">​</a></h2>
+<ol>
+<li id="user-content-fn-1-5da721">
+<p>B. Shneiderman, "The eyes have it: a task by data type taxonomy for information visualizations," Proceedings 1996 IEEE Symposium on Visual Languages, Boulder, CO, USA, 1996, pp. 336-343, doi: 10.1109/VL.1996.545307. <a data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref" href="https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis#user-content-fnref-1-5da721">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+        <author>
+            <name>Jake Nichols</name>
+            <uri>https://github.com/jnichols12</uri>
+        </author>
+        <category label="WordJournal" term="WordJournal"/>
+    </entry>
 </feed>
