@@ -14,8 +14,6 @@ tags: [tutorial]
 
 
 
-
-
 Avoid Bullet-Points (mostly)
 
     + Bullet-points are often used as a crutch in slide design with most of the words to be spoken, but they should be used sparingly.
