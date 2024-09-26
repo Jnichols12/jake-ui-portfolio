@@ -7,9 +7,9 @@ tags: [wordjournal]
 ---
 
 
-*This blog post is a meta reflection on Ben Shneiderman's paper, "The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations"[^1] as well as a reflection on the importance of this paper's concepts in the industry.*
+This blog post is a meta reflection on Ben Shneiderman's paper, "The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations"[^1] as well as a reflection on the importance of this paper's concepts in the industry.
 
-![Alt text](/img/tunnel_vision.jpeg "Tunnel Vision")
+![Alt text](/img/tunnel_vision.jpeg "Tunnel vision")
 <p style={{textAlign: "center"}}>Artistic Depiction of Tunnel Vision</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I found a lot of this paper to be bogged down in implementation details of specific problems/solutions which I don't find terribly helpful when trying to learn a concept.

@@ -7,9 +7,9 @@ tags: [freeform]
 ---
 
 
-*The following blog post explains my reasoning based on Eiseman's "The Complete Color Harmony: Pantone Edition"[^1] for choosing purple as the primary color of this portfolio.
+The following blog post explains my reasoning based on Eiseman's *The Complete Color Harmony[^1]* for choosing purple as the primary color of this portfolio.
 
-![Alt text](/img/purple.jpeg "Example Presentations w/ Good Formatting")
+![Alt text](/img/purple.jpeg "A sunset over a purple sky")
 <p style={{textAlign: "center"}}>In the Simplest Terms: Purple is Stunning</p>
 
 
@@ -26,6 +26,7 @@ but in a subtler sense than a bright orange or deep red. Purple makes a statemen
 by being the loudest but simply by having something to say. Sometimes this may get drowned out by louder voices such as the oranges & reds of the world, but
 the reserved thoughts are there for those who choose to listen. Perhaps this has nothing to do with purple, and I'm just projecting my personality onto
 my favorite color. Perhaps my personality lead me to choose a color I identify with. 
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or, perhaps purple has influenced my personality... much like the personality of this portfolio. 
 

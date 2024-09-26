@@ -7,9 +7,9 @@ tags: [tutorial]
 ---
 
 
-*The following tutorial contains key points & reminders from Presentation Zen[^1] on how to create attention-grabbing/effective PowerPoint slides.*
+The following tutorial contains key points & reminders from *Presentation Zen[^1]* on how to create attention-grabbing/effective PowerPoint slides.
 
-![Alt text](/img/presentation_stock.jpeg "Example Presentations w/ Good Formatting")
+![Alt text](/img/presentation_stock.jpeg "Example presentations with good formatting")
 <p style={{textAlign: "center"}}>An Example of Simple But Effective Slides</p>
 
 
