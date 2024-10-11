@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jnichols12.github.io/jake-ui-portfolio/blog</id>
     <title>Jake Nichols UI Portfolio Blog</title>
-    <updated>2024-10-03T17:03:00.000Z</updated>
+    <updated>2024-10-10T10:15:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jnichols12.github.io/jake-ui-portfolio/blog"/>
     <subtitle>Jake Nichols UI Portfolio Blog</subtitle>
     <icon>https://jnichols12.github.io/jake-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Navigation Concept Map]]></title>
+        <id>https://jnichols12.github.io/jake-ui-portfolio/blog/navigation</id>
+        <link href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation"/>
+        <updated>2024-10-10T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post is a reflection of chapter 6 of Steve Krug's Don't Make Me Think]]></summary>
+        <content type="html"><![CDATA[<p>This blog post is a reflection of chapter 6 of Steve Krug's <em>Don't Make Me Think<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation#user-content-fn-1-244587" id="user-content-fnref-1-244587" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em>
+containing a map of the key elements of strong navigation.</p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/nav_concept_map-88e08c422a892283e1e1e785f9b5f27d.jpg" title="Navigation stock image" width="1200" height="1344" class="img_ev3q">
+</p><p style="text-align:center">My Concept Map</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Above, I've mapped my own hierarchy of important elements to UI navigation.
+I consider the navbar to contain the most important elements while body is loosely more important than the
+footer. From there, items are listed in order of importance for their sections. I'll explain a bit more
+of my reasoning below.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I put search at the top of the hierarchy since many users default to search before
+attempting to muddle through any links as mentioned in <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation#user-content-fn-1-244587" id="user-content-fnref-1-244587-2" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em> Not having a good search can alienate a ton of users
+who are expecting to use it exclusively. From there, I essentially ordered all the other link types based on how frequently they
+should be used and what value they bring to the UI. External links are much lower than the rest because they take users
+away from your UI, but they still may be necessary at times. Otherwise, links that lead to larger sections of the UI are
+generally ranked higher than one-off pages in my eyes.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though navigation is a key part of every UI, it feels like a concept which can fall to the
+wayside when getting down into the details of implementing a new feature. This hierarchy will be a helpful guideline in
+my career as a reminder of which elements are most important to focus on so as not to forget them when working in other
+areas.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-244587">
+<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation#user-content-fnref-1-244587" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a> <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/navigation#user-content-fnref-1-244587-2" data-footnote-backref="" aria-label="Back to reference 1-2" class="data-footnote-backref">↩<sup>2</sup></a></p>
+</li>
+</ol>
+</section>]]></content>
+        <author>
+            <name>Jake Nichols</name>
+            <uri>https://github.com/jnichols12</uri>
+        </author>
+        <category label="ConceptMap" term="ConceptMap"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Inspiration]]></title>
         <id>https://jnichols12.github.io/jake-ui-portfolio/blog/finding-inspiration</id>
