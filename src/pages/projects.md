@@ -7,7 +7,6 @@ slug: /projects
 
 Here are some of the projects I've worked on:
 
-- **Project 1**: Description of your first project.
-- **Project 2**: Description of your second project.
+- <a href="/jake-ui-portfolio/projects/mobile-order">**Mobile Order App (WIP)**</a>
 
-<!-- Add more project descriptions -->
+<!-- Add more project descriptions & make this prettier probably -->
