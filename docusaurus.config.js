@@ -44,9 +44,9 @@ const config = {
         ({
             image: "img/docusaurus-social-card.jpg",
             navbar: {
-                title: "My UI Portfolio",
+                title: "Jake Nichols UI Portfolio",
                 logo: {
-                    alt: "My UI Portfolio Logo",
+                    alt: "Jake Nichols Portfolio Logo",
                     src: "img/logo.svg",
                 },
                 items: [
@@ -86,7 +86,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} My UI Portfolio. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Jake Nichols UI Portfolio. Built with Docusaurus.`,
             },
             prism: {
                 theme: prismThemes.github,
