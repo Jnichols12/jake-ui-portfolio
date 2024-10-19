@@ -1,0 +1,41 @@
+@import "custom.css";
+
+div.main {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+div.main div.inner-container {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+}
+
+div.main div.inner-container h2 {
+    margin: 1rem 0 0;
+}
+
+div.main div.inner-container div.slider-container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+div.main div.inner-container div.slider-container div.slick-list {
+    margin: 0 2rem;
+}
+
+button.slick-arrow::before {
+    color: var(--ifm-color-primary);
+}
+
+ul.slick-dots li.slick-active button::before {
+    color: var(--ifm-color-primary);
+}
+
+ul.slick-dots li button::before {
+    color: var(--ifm-color-primary);
+}
+
