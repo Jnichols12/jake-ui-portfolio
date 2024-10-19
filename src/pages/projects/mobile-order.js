@@ -29,11 +29,11 @@ export default function MobileOrder() {
                     </p>
 
                     <p>You can view the design system below in Figma:</p>
-                    <iframe style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }} width="100%" height="450" src="https://embed.figma.com/design/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=0-1&embed-host=share" allowfullscreen />
+                    <iframe style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }, { height: "45vh" }} width="100%" src="https://embed.figma.com/design/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=0-1&embed-host=share" allowfullscreen />
 
                     <h2>Mockups</h2>
                     <div className="slider-container">
-                        <Slider style={{ width: "80%"}} dots={true} infinite={false} speed={500} slidesToShow={1} slidesToScroll={1}>
+                        <Slider style={{ width: "60%"}} dots={true} infinite={false} speed={500} slidesToShow={1} slidesToScroll={1}>
                             {/* TODO: These images could be passed as a map from list of images with alt titles. */}
                             <img src={CollapsedHomepage} alt="Homepage Collapsed" />
                             <img src={ExpandedHomepage} alt="Homepage Expanded" />
@@ -43,7 +43,6 @@ export default function MobileOrder() {
                             <img src={CheckoutPaymentInputs} alt="Checkout with Payment Inputs" />
                             <img src={CheckoutSavedCard} alt="Checkout with Saved Card" />
                             <img src={CheckoutConfirmation} alt="Checkout with Confirmation" />
-                            {/* TODO: Add last mockups */}
                         </Slider>
                     </div>
 

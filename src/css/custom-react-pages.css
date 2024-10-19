@@ -10,7 +10,7 @@ div.main {
 div.main div.inner-container {
     display: flex;
     flex-direction: column;
-    width: 75%;
+    width: 50%;
 }
 
 div.main div.inner-container h2 {
