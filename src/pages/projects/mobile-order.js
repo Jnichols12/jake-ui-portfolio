@@ -46,6 +46,9 @@ export default function MobileOrder() {
                         </Slider>
                     </div>
 
+                    <h2 style={{marginBottom: "1rem"} }>Prototype</h2>
+                    <iframe style={{border: "1px solid rgba(0, 0, 0, 0.1)"}} width="100%" height="800" src="https://embed.figma.com/proto/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=96-1848&node-type=canvas&scaling=contain&content-scaling=fixed&starting-point-node-id=96%3A1035&embed-host=share" allowfullscreen></iframe>
+
                     <p>More to come...</p>
                 </div>
             </div>
