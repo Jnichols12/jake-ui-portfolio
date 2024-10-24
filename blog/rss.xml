@@ -4,10 +4,37 @@
         <title>Jake Nichols UI Portfolio Blog</title>
         <link>https://jnichols12.github.io/jake-ui-portfolio/blog</link>
         <description>Jake Nichols UI Portfolio Blog</description>
-        <lastBuildDate>Fri, 18 Oct 2024 17:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 17:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Giving Space in User Tests]]></title>
+            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests</link>
+            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests</guid>
+            <pubDate>Thu, 24 Oct 2024 17:54:00 GMT</pubDate>
+            <description><![CDATA[This blog post is a reflection of chapters 8 & 9 of Steve Krug's Don't Make Me Think.]]></description>
+            <content:encoded><![CDATA[<p>This blog post is a reflection of chapters 8 &amp; 9 of Steve Krug's <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests#user-content-fn-1-95b35a" id="user-content-fnref-1-95b35a" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/space-33fee8c7cae9f2ac0518388871fd2445.jpeg" title="Leave a space stock image" class="img_ev3q">
+</p><p style="text-align:center">Leave some space</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Space</strong> is necessary for your participants to provide good feedback
+during a user test. It's always tempting for me to ask railroading and leading questions. I tend to ask users and stakeholders
+which of two options they prefer rather than finding out what they want. However, giving the space necessary to give
+feedback on what a user actually wants or dislikes will lead to much more productive user testing. It's important
+to ask more general questions that allow users to explore and express their own thoughts.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a lesson that's useful in many aspects of a software development career. While
+we're applying it here to UI and usability, leaving space for feedback and organic responses can also be extremely
+helpful in requirements elicitation or just general discussions with coworkers.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-95b35a">
+<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests#user-content-fnref-1-95b35a" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[Focused Feedback]]></title>
             <link>https://jnichols12.github.io/jake-ui-portfolio/blog/feedback</link>
