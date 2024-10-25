@@ -8,6 +8,40 @@
     <subtitle>Jake Nichols UI Portfolio Blog</subtitle>
     <icon>https://jnichols12.github.io/jake-ui-portfolio/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Prioritizing Fixes From User Tests]]></title>
+        <id>https://jnichols12.github.io/jake-ui-portfolio/blog/debriefing-user-tests</id>
+        <link href="https://jnichols12.github.io/jake-ui-portfolio/blog/debriefing-user-tests"/>
+        <updated>2024-10-24T17:54:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post is a reflection of chapters 8 & 9 of Steve Krug's Don't Make Me Think.]]></summary>
+        <content type="html"><![CDATA[<p>This blog post is a reflection of chapters 8 &amp; 9 of Steve Krug's <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/debriefing-user-tests#user-content-fn-1-57bba3" id="user-content-fnref-1-57bba3" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/priority-54d8ebd79b8fd0fed25f72bdf4d4a030.jpeg" title="High priority stock image" width="5000" height="3333" class="img_ev3q">
+</p><p style="text-align:center">Focus on the priorities</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Prioritization</strong> is the main point I took away from Krug's thoughts
+on how to debrief after a user test. It's important to narrow down the changes you intend to make based on feedback
+to only the most important points. If you try to fix everything, you'll end up changing things which aren't truly
+problems and just grievances of a particular user. Knowing how to identify the difference is key in prioritizing
+the proper issues. In Krug's methodology, it's important to work with your team (assuming you have one) to debate
+and collectively set the top priorities. This also allows others to stop you if you get too wrapped up in something
+that doesn't really need a fix.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prioritization is a useful skill as a developer since you can often get caught up in
+what you want to do rather than what's most beneficial to the project. Though some amount of this is the burden of
+a project manager, it's still important to understand your priorities and to use your own judgement in tackling the
+issues with the highest return on investment.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/debriefing-user-tests#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-57bba3">
+<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/debriefing-user-tests#user-content-fnref-1-57bba3" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+        <author>
+            <name>Jake Nichols</name>
+            <uri>https://github.com/jnichols12</uri>
+        </author>
+        <category label="WordJournal" term="WordJournal"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giving Space in User Tests]]></title>
         <id>https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests</id>
         <link href="https://jnichols12.github.io/jake-ui-portfolio/blog/user-tests"/>
