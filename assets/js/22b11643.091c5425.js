@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1526],{1860:e=>{e.exports=JSON.parse('{"authors":[{"name":"Jake Nichols","title":"Student","url":"https://github.com/jnichols12","imageURL":"/img/jake_profile.jpg","key":"jake","page":null,"count":11}]}')}}]);
