@@ -4,17 +4,49 @@
         <title>Jake Nichols UI Portfolio Blog</title>
         <link>https://jnichols12.github.io/jake-ui-portfolio/blog</link>
         <description>Jake Nichols UI Portfolio Blog</description>
-        <lastBuildDate>Thu, 31 Oct 2024 17:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 17:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Clarity in Constraints]]></title>
+            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/constraints</link>
+            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/constraints</guid>
+            <pubDate>Thu, 31 Oct 2024 17:59:00 GMT</pubDate>
+            <description><![CDATA[This blog post is a reflection of chapter 4 of Don Norman's The Design of Everyday Things.]]></description>
+            <content:encoded><![CDATA[<p>This blog post is a reflection of chapter 4 of Don Norman's <em>The Design of Everyday Things.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/constraints#user-content-fn-1-706c81" id="user-content-fnref-1-706c81" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/confusion-adfb8bf25e562534172da34e7cc0bb9f.jpeg" title="Confusion stock image" class="img_ev3q">
+</p><p style="text-align:center">Never lead your users in opposing directions</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Clarity</strong> is an extremely important aspect of any part of design. In particular, constraints need
+to be clear such that users won't interpret what they're allowed to do in wildly different ways. Cultural constraints in particular
+can be grounds for lots of confusion. For this reason, UIs should aim to use globally-recognizable standards when inducing constraints or at
+least specify the standard which they're expecting.
+It may feel tempting to design specifically for users of the country you live in because that is the first market you want to capture.
+However, this is bound to lead to confusion down the line if your application grows into something bigger.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One obvious example of a poor cultural constraint is designing an application such that it expects weight
+in pounds without clarifying this to the user. While US users will mostly follow this constraint implicitly, nearly any other country
+will give you data that you won't be handling correctly. Though we don't have a universal unit to use in a situation like this, specifying
+the expected input format or allowing your users to select a unit preference is a simple solution to prevent ambiguity across cultures.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the company I work for, we have an entire department dedicated to addressing cultural constraints and
+differences. While this isn't necessary for every team, putting a little forethought into the cultural constraints of your application
+is a surefire way to prevent unplanned for issues in a growing application.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/constraints#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-706c81">
+<p>Norman, Don. The Design of Everyday Things. Basic Books, 2013. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/constraints#user-content-fnref-1-706c81" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[Remembering Everyone in Accessibility]]></title>
             <link>https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1</link>
             <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1</guid>
             <pubDate>Thu, 31 Oct 2024 17:01:00 GMT</pubDate>
             <description><![CDATA[This blog post is a reflection of chapter 12 of Steve Krug's Don't Make Me Think.]]></description>
-            <content:encoded><![CDATA[<p>This blog post is a reflection of chapter 12 of Steve Krug's <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1#user-content-fn-1-10b874" id="user-content-fnref-1-10b874" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+            <content:encoded><![CDATA[<p>This blog post is a reflection of chapter 12 of Steve Krug's <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1#user-content-fn-1-611149" id="user-content-fnref-1-611149" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
 <p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/accessibility-e21b25cde464412744bd031f0d8be13e.jpeg" title="Accessibility stock image" width="5477" height="2739" class="img_ev3q">
 </p><p style="text-align:center">Accessibility features help everyone</p><p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Everyone</strong> is the key word to remember when it comes to developing
@@ -34,8 +66,8 @@ since they can benefit everyone in ways you may never expect.</p>
 <!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
 <ol>
-<li id="user-content-fn-1-10b874">
-<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1#user-content-fnref-1-10b874" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-1-611149">
+<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/accessbility-1#user-content-fnref-1-611149" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content:encoded>
