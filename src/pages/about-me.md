@@ -22,10 +22,8 @@ slug: /about-me
 
 # Contact Me
 
-I would love to hear from you!
+Feel free to contact me through any of the methods below or take a look at my other projects:
 
 - **Email**: [jnichols12@huskers.unl.edu](mailto:jnichols12@huskers.unl.edu)
 - **LinkedIn**: [Jake Nichols](https://www.linkedin.com/in/jake-nichols-6137b4258)
 - **GitHub**: [jnichols12](https://github.com/jnichols12)
-
-Feel free to drop a message or connect with me on social media.
