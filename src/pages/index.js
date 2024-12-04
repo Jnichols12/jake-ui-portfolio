@@ -19,11 +19,11 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}></div>
         <br></br>
-        <Link
-          className="button button--secondary button--lg"
-          to="/blog/"
-        >
-          Latest Blog Post
+        <Link className="button button--secondary button--lg" to="/blog/" style={{marginRight: "1rem"}}>
+            Latest Blog Post
+        </Link>
+        <Link className="button button--secondary button--lg" to="/projects/mobile-order" style={{ marginLeft: "1rem" }}>
+            View My First UI project
         </Link>
       </div>
     </header>
@@ -39,9 +39,9 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        {/*<div className="container">*/}
-        {/*  <HomepageFeatures />*/}
-        {/*</div>*/}
+        <div width="100%" style={{ textAlign: "center", marginTop: "2rem" }}>
+            { /*TODO: Probably add something in here, but no idea what*/ }
+        </div>
       </main>
     </Layout>
   );

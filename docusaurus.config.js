@@ -51,9 +51,8 @@ const config = {
                 },
                 items: [
                     { to: "/about-me", label: "About Me", position: "left" },
-                    { to: "/projects", label: "Projects", position: "left" },
+                    { to: "/projects/mobile-order", label: "Project", position: "left" },
                     { to: "/blog", label: "Blog", position: "left" },
-                    { to: "/contact", label: "Contact", position: "right" },
                     {
                         href: "https://github.com/jnichols12/jake-ui-portfolio",
                         label: "GitHub",
@@ -69,8 +68,8 @@ const config = {
                         items: [{ label: "About Me", to: "/about-me" }],
                     },
                     {
-                        title: "Projects",
-                        items: [{ label: "Projects", to: "/projects" }],
+                        title: "Project",
+                        items: [{ label: "Project", to: "/projects/mobile-order" }],
                     },
                     {
                         title: "Blog",

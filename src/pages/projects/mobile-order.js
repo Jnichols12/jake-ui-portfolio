@@ -35,18 +35,18 @@ export default function MobileOrder() {
                     <div className="slider-container">
                         <Slider style={{ width: "60%"}} dots={true} infinite={false} speed={500} slidesToShow={1} slidesToScroll={1}>
                             {/* TODO: These images could be passed as a map from list of images with alt titles. */}
-                            <img src={CollapsedHomepage} alt="Homepage Collapsed" />
-                            <img src={ExpandedHomepage} alt="Homepage Expanded" />
-                            <img src={RestaurantCollapsed} alt="Restaurant Page Collapsed" />
-                            <img src={RestaurantExpanded} alt="Restaurant Page Expanded" />
-                            <img src={ItemPage} alt="Item Page" />
-                            <img src={CheckoutPaymentInputs} alt="Checkout with Payment Inputs" />
-                            <img src={CheckoutSavedCard} alt="Checkout with Saved Card" />
-                            <img src={CheckoutConfirmation} alt="Checkout with Confirmation" />
+                            <img src={CollapsedHomepage} alt="A mockup of a mobile order app with all dropdowns on the homepage collapsed" />
+                            <img src={ExpandedHomepage} alt="A mockup of a mobile order app with all dropdowns on the homepage expanded" />
+                            <img src={RestaurantCollapsed} alt="A mockup of a mobile order app with all dropdowns on a restaurant's page collapsed" />
+                            <img src={RestaurantExpanded} alt="A mockup of a mobile order app with all dropdowns on a restaurant's page expanded" />
+                            <img src={ItemPage} alt="A mockup of a mobile order app's page for ordering an individual item" />
+                            <img src={CheckoutPaymentInputs} alt="A mockup of a mobile order app's checkout page with payment inputs" />
+                            <img src={CheckoutSavedCard} alt="A mockup of a mobile order app's checkout page with saved payment information" />
+                            <img src={CheckoutConfirmation} alt="A mockup of a mobile order app's checkout page with a confirmation popup" />
                         </Slider>
                     </div>
 
-                    <h2 style={{marginBottom: "1rem"} }>Prototype</h2>
+                    <h2 style={{marginBottom: "1rem"}}>Prototype</h2>
                     <iframe style={{border: "1px solid rgba(0, 0, 0, 0.1)"}} width="100%" height="800" src="https://embed.figma.com/proto/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=96-1848&node-type=canvas&scaling=contain&content-scaling=fixed&starting-point-node-id=96%3A1035&embed-host=share" allowfullscreen></iframe>
 
                     <p>More to come...</p>
