@@ -514,6 +514,32 @@ how to use smart color combinations and experiment to create your own unique the
             <category>Tutorial</category>
         </item>
         <item>
+            <title><![CDATA[Design Rules - Conciseness]]></title>
+            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/design-rules</link>
+            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/design-rules</guid>
+            <pubDate>Fri, 13 Sep 2024 20:48:00 GMT</pubDate>
+            <description><![CDATA[This blog post is a reflection of chapters 2-5 of Steve Krug's Don't Make Me Think.]]></description>
+            <content:encoded><![CDATA[<p>This blog post is a reflection of chapters 2-5 of Steve Krug's <em>Don't Make Me Think.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/design-rules#user-content-fn-1-4fbcb4" id="user-content-fnref-1-4fbcb4" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/brevity-2780cf0257dc8e2a1b598c9ef7aa280d.jpeg" title="A stock image stating &amp;#39;less is more&amp;#39;" width="6316" height="3744" class="img_ev3q">
+</p><p style="text-align:center">To quote Shakespeare, "Brevity is the soul of wit"</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Much of Krug's advice seems to revolve around a focus on brevity &amp; conciseness.
+Too many words will bog down a UI &amp; cause the reader to skim too hard leading to them missing the info that's actually important.
+Keeping text to a minimum of just the important lines helps catch users' eyes with only what is necessary to digest the page
+&amp; reach their goals. This point feels especially important for me to keep in mind in my career as I often have trouble with
+brevity in general. Even in my personal life, I can't help but over-explain things, so I always send the "essay" texts that everyone hates.
+Knowing when brevity is important is very helpful to me so that I can focus on it to try to counteract my instincts or cut down what
+I've already written.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/design-rules#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-4fbcb4">
+<p>Krug, Steve. Don't Make Me Think: Revisited. A Common Sense Approach to Web and Mobile Usability. New Riders, 2014. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/design-rules#user-content-fnref-1-4fbcb4" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
+        <item>
             <title><![CDATA[Analysis of Shneiderman - The Eyes Have It]]></title>
             <link>https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis</link>
             <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/shneiderman-analysis</guid>
@@ -536,6 +562,37 @@ In terms of the actual content of the reading, the principles themselves that we
 </ol>
 </section>]]></content:encoded>
             <category>WordJournal</category>
+        </item>
+        <item>
+            <title><![CDATA[Conceptual Models are to Design as Song Lyrics are to Music]]></title>
+            <link>https://jnichols12.github.io/jake-ui-portfolio/blog/conceptual-models</link>
+            <guid>https://jnichols12.github.io/jake-ui-portfolio/blog/conceptual-models</guid>
+            <pubDate>Wed, 28 Aug 2024 18:29:00 GMT</pubDate>
+            <description><![CDATA[This blog post is a reflection of chapter 1 of Don Norman's The Design of Everyday Things.]]></description>
+            <content:encoded><![CDATA[<p>This blog post is a reflection of chapter 1 of Don Norman's <em>The Design of Everyday Things.<sup><a href="https://jnichols12.github.io/jake-ui-portfolio/blog/conceptual-models#user-content-fn-1-df3995" id="user-content-fnref-1-df3995" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
+<p><img decoding="async" loading="lazy" alt="Alt text" src="https://jnichols12.github.io/jake-ui-portfolio/assets/images/lyrics-81bfa96009080cf81d01e48ef3ee08ef.jpeg" title="A stock image of random song lyrics" width="5472" height="3648" class="img_ev3q">
+</p><p style="text-align:center">Both lyrics and conceptual models have infinite interpretations</p><p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most songs have lyrics written with a level of depth &amp; hidden meaning that their
+original intent is only fully understood by their writers. As the rest of us hear these songs, we piece together
+the lyrics into a story or message which we probably perceive as the intended one. We may not have even heard the correct
+words in certain portions (this happens to me all the time) but manage to craft an understanding of the lyrics which we find coherent.
+In some cases, we may even search out what insight the artist has given on a song and realize that our perception wasn't nearly as
+accurate as we realized. These concepts all have parallels in conceptual models such as forming a mental model from experimentation
+with affordances or interpreting signifiers, misinterpreting signifiers to mean something unintended, and consulting resources from
+the designers to try to understand their conceptual model.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For me, tying these concepts to something I've experienced often in everyday life is
+a useful way to remember how wildly conceptual models can vary from person to person. This should be useful in my
+career as it's a reminder to design interfaces with signifiers that are as unambiguous as possible to try to
+transfer as much of my conceptual model to the user as possible.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://jnichols12.github.io/jake-ui-portfolio/blog/conceptual-models#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
+<ol>
+<li id="user-content-fn-1-df3995">
+<p>Norman, Don. The Design of Everyday Things. Basic Books, 2013. <a href="https://jnichols12.github.io/jake-ui-portfolio/blog/conceptual-models#user-content-fnref-1-df3995" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content:encoded>
+            <category>ApproximateAnalogy</category>
         </item>
     </channel>
 </rss>
