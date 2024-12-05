@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jnichols12.github.io/jake-ui-portfolio/blog"/>
     <subtitle>Jake Nichols UI Portfolio Blog</subtitle>
-    <icon>https://jnichols12.github.io/jake-ui-portfolio/img/favicon.ico</icon>
+    <icon>https://jnichols12.github.io/jake-ui-portfolio/img/jn_logo.png</icon>
     <entry>
         <title type="html"><![CDATA[UIUN Reflection]]></title>
         <id>https://jnichols12.github.io/jake-ui-portfolio/blog/uiun</id>
