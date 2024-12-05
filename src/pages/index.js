@@ -3,9 +3,8 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
-
+import AboutMe from "@site/src/components/about-me.mdx";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -33,14 +32,11 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`Home`}
-      description="Homepage for the UI portfolio belonging to Jake Nichols."
-    >
+    <Layout title={`Home`} description="Homepage for the UI portfolio belonging to Jake Nichols.">
       <HomepageHeader />
-      <main>
-        <div width="100%" style={{ textAlign: "center", marginTop: "2rem" }}>
-            { /*TODO: Probably add something in here, but no idea what*/ }
+      <main style={{textAlign: "center", width: "100%"}}>
+        <div style={{display: "inline-block", marginTop: "2rem", width: "60%"}}>
+            <AboutMe />
         </div>
       </main>
     </Layout>

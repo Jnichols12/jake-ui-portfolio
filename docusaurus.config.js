@@ -4,8 +4,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "Jake Nichols UI Portfolio",
-    tagline: "Showcasing My Work and Thoughts",
-    favicon: "img/favicon.ico",
+    tagline: "Simple & Efficient Designs",
+    favicon: "img/jn_logo.png",
 
     url: "https://jnichols12.github.io/", // Replace with your actual domain
     baseUrl: "/jake-ui-portfolio/",
@@ -47,11 +47,10 @@ const config = {
                 title: "Jake Nichols UI Portfolio",
                 logo: {
                     alt: "Jake Nichols Portfolio Logo",
-                    src: "img/logo.svg",
+                    src: "img/jn_logo.png",
                 },
                 items: [
-                    { to: "/about-me", label: "About Me", position: "left" },
-                    { to: "/projects/mobile-order", label: "Project", position: "left" },
+                    { to: "/projects/mobile-order", label: "Mobile Order Project", position: "left" },
                     { to: "/blog", label: "Blog", position: "left" },
                     {
                         href: "https://github.com/jnichols12/jake-ui-portfolio",
@@ -64,16 +63,12 @@ const config = {
                 style: "dark",
                 links: [
                     {
-                        title: "About Me",
-                        items: [{ label: "About Me", to: "/about-me" }],
-                    },
-                    {
-                        title: "Project",
-                        items: [{ label: "Project", to: "/projects/mobile-order" }],
+                        title: "Projects",
+                        items: [{ label: "Mobile Order Project", to: "/projects/mobile-order" }],
                     },
                     {
                         title: "Blog",
-                        items: [{ label: "Blog", to: "/blog" }],
+                        items: [{ label: "Latest Blog Post", to: "/blog" }],
                     },
                     {
                         title: "Community",
