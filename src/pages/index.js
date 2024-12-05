@@ -15,15 +15,18 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}></div>
-        <br></br>
-        <Link className="button button--secondary button--lg" to="/blog/" style={{marginRight: "1rem"}}>
-            Latest Blog Post
-        </Link>
-        <Link className="button button--secondary button--lg" to="/projects/mobile-order" style={{ marginLeft: "1rem" }}>
-            View My First UI project
-        </Link>
+              <p className="hero__subtitle">{siteConfig.tagline}</p>
+              <br></br>
+              <div className={styles.buttons}>
+                  <Link className="button button--secondary button--lg" to="/blog/" style={{}}>
+                      Latest Blog Post
+                  </Link>
+                  <Link className="button button--secondary button--lg" to="/projects/mobile-order" style={{}}>
+                      View My First UI project
+                  </Link>
+              </div>
+
+
       </div>
     </header>
   );
