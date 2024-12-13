@@ -15,7 +15,7 @@ directly on the homepage.
 ## Intentional Color Choices
 I wanted to use purple for my portfolio as it's my favorite color, and I feel that it's a good
 choice to stand out without being as excessive or bold as something like orange or red. I wrote
-a lot more about choosing this color in <a href="blog/colors-2" target="_blank">this blog post</a>.
+a lot more about choosing this color in <a href="/jake-ui-portfolio/blog/colors-2" target="_blank">this blog post</a>.
 Additionally, I was very intentional in the shades of purple I used for both light and dark mode
 to ensure the best contrast with the primary text colors (best seen in the homepage banner). The
 deeper purple works better with white text while the more pale purple works better with black.
@@ -40,12 +40,13 @@ I will again point to the carousel implemented on the project page for original 
 This conserves space and is much sleeker than including several different images in a
 row on that page. Using what's already available in Docusaurus and Markdown, I've
 also been able to include solid headers and bulleted lists such as in
-<a href="blog/uiun" target="_blank">this blog post.</a>
+<a href="/jake-ui-portfolio/blog/uiun" target="_blank">this blog post.</a>
 
 ## Evidence of Evolution
-If you look at <a href="blog/portfolios" target="_blank">this earlier blog post</a>, you
+If you look at <a href="/jake-ui-portfolio/blog/portfolios" target="_blank">this earlier blog post</a>, you
 can hover over the image to see that the alt text is relatively simple and doesn't have
-the best description of the image. Compare this to <a href="blog/uiun" target="_blank">a more recent blog post</a>
+the best description of the image. Compare this to 
+<a href="/jake-ui-portfolio/blog/uiun" target="_blank">a more recent blog post</a>
 that came after the lessons on accessibility, and you will see that the descriptions got much
 longer and more accurate rather than simply "\<topic\> stock image."
 
