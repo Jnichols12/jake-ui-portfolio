@@ -89,16 +89,16 @@ export default function MobileOrder() {
 
                     <p style={{ margin: "2rem 0" }}>
                         In the final prototype below, you will find that the overall workflow has not been adjusted much from the initial
-                        iteration. Some additional features have been added such as the abilities to choose whether you card should
-                        be saved or not and to change the topping on an item as I felt these were both important aspects to have functional
+                        iteration. Some additional features have been added such as the abilities to choose whether your card should
+                        be saved or not and to change the topping of an item as I felt these were both important aspects to have functional
                         in the final prototype. Overall, the other changes besides those described in the section above include minor polishing
                         of things like spacing and borders. Had I committed more time to this project, I would have liked to start weakening and
                         outright removing many of the hard black borders on elements as I was given feedback on how this makes it look a bit dated.
                         I agree with this assessment, but that was how I envisioned it from the start. I didn't realize how much sleeker things
                         could look by simply removing borders until I made this change to the green confirmation buttons on the app. I chose to keep
                         this change as it looks good on its own, but I would've needed to make changes to so many elements of the design system to
-                        give the rest of the elements a consistent look and feel with lesser borders. This realization came when I was already
-                        beginning to sunset the project unfortunately.
+                        give the rest of the elements a consistent look and feel with lesser borders. Unfortunately, this realization came when I was already
+                        beginning to sunset the project.
                     </p>
 
                     <div style={{ textAlign: "center" }} width="100%">
