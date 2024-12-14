@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.5.2">
 <title data-rh="true">Jake Nichols UI Portfolio</title><meta data-rh="true" property="og:title" content="Jake Nichols UI Portfolio"><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://jnichols12.github.io/jake-ui-portfolio/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://jnichols12.github.io/jake-ui-portfolio/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://jnichols12.github.io/jake-ui-portfolio/projects/mobile-order"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docusaurus_tag" content="default"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docsearch:docusaurus_tag" content="default"><link data-rh="true" rel="icon" href="/jake-ui-portfolio/img/jn_logo.png"><link data-rh="true" rel="canonical" href="https://jnichols12.github.io/jake-ui-portfolio/projects/mobile-order"><link data-rh="true" rel="alternate" href="https://jnichols12.github.io/jake-ui-portfolio/projects/mobile-order" hreflang="en"><link data-rh="true" rel="alternate" href="https://jnichols12.github.io/jake-ui-portfolio/projects/mobile-order" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/jake-ui-portfolio/blog/rss.xml" title="Jake Nichols UI Portfolio RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/jake-ui-portfolio/blog/atom.xml" title="Jake Nichols UI Portfolio Atom Feed"><link rel="stylesheet" href="/jake-ui-portfolio/assets/css/styles.696c0d6c.css">
-<script src="/jake-ui-portfolio/assets/js/runtime~main.ef2cb20a.js" defer="defer"></script>
+<script src="/jake-ui-portfolio/assets/js/runtime~main.3027c86e.js" defer="defer"></script>
 <script src="/jake-ui-portfolio/assets/js/main.319d6ee5.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -16,7 +16,7 @@
 a mobile-ordering app. At times, I find the current solution at my university at odds with this value, and there
 are things I would like to see changed about it. This is a sentiment I&#x27;ve also had shared with me by other students,
 especially in relation to this project. Getting solid nutrition into your daily routine despite the busy schedules of
-college students shouldn&#x27;t require jumping through hoops. A mobile-ordering apps whould improve the user&#x27;s life by
+college students shouldn&#x27;t require jumping through hoops. A mobile-ordering app should improve the user&#x27;s life by
 conveniently and simply providing a way to make sure a meal is ready when you are. As such, my goal is to redesign my
 university&#x27;s dining app to unite users with their next meal as fast as possible.</p><p></p>
 <p></p><p>As implied by the word &quot;mobile,&quot; this app is designed specifically around phones. While a desktop version of the
@@ -54,7 +54,7 @@ class since he doesn&#x27;t have time to wait nearby for his order to finish bei
 &amp; sating his hunger, and the app should facilitate that.</p><p></p></div>
 <p></p><p>This user story served to remind me of the project&#x27;s goals. It represents somewhat of a caricature of the most difficult
 portion of the target audience to appease, but Alex is also someone we&#x27;ve all been at one time or another as a student. As
-such, wanted to ensure that the app could be used painlessly by even the most agitated college student. Not only does this mean
+such, I wanted to ensure that the app could be used painlessly by even the most agitated college student. Not only does this mean
 the layout and workflows should remain simple, but it should also utilize industry standards to make the design as familiar
 as possible. I looked at a variety of major mobile-ordering apps and used inspiration from what they all do to design familiar
 elements like the confirmation/add to cart button, tiles for restaurants and items, and a standard header layout. This brought
@@ -89,7 +89,7 @@ there are techniques to make something properly scrollable in Figma, and by that
 I scrapped the idea and moved away from scrolling entirely. Once I figured out the
 issue with my dimensions being too short, it already felt too late in the project to
 fully redesign multiple pages or extend the content to fit the dimensions of a real
-phone, so I unframed the prototype and continued on which you will see in the final
+phone, so I unframed the prototype and continued on, which you will see in the final
 prototype.</p><p></p>
 <h2 id="user-testing--iteration">User Testing &amp; Iteration</h2>
 <p></p><p>Upon completing the early prototype, I began user testing with colleagues of mine also
@@ -99,8 +99,9 @@ Testers were read a script which outlined the parameters of the test such as how
 would be used and who would have access to it (which was basically just me). I then asked
 the testers to attempt to place an order through the app while speaking their thought
 process out loud as well as anything that stood out to them as a strength or
-weakness of the design.
-I admittedly did not gain as much feedback during this initial session as I would have liked.
+weakness of the design. I did my best not to guide them through this workflow at all, and
+everyone seemed go through it nearly flawlessly.
+I admittedly did not gain as much feedback during these sessions as I would have liked.
 I was given generally positive feedback about the layout and overall simplicity of the app
 which is a positive as that was a core value from the start, but I was hoping for more issues
 to be pointed out besides the prototype not fitting the frame and other things of that nature.
@@ -124,19 +125,19 @@ be scrollable. I then removed the frame as I figured having no frame was better 
 poorly framed. This is still how it&#x27;s done in the final prototype unfortunately.</p><p></p>
 <p></p><p>I also realized during testing that I didn&#x27;t do anything to alleviate one of my core issues with the
 real app. My prototype just listed the item options (e.g. toppings) as text that
-can&#x27;t be selected individually to edit one without worrying about the rest. In the current app, you
-must go through context menus for every option/topping on the item to edit a single one and add it
+couldn&#x27;t be selected individually to edit one without worrying about the rest. In the current app, you
+must go through context menus for every option/topping on the item to edit a single option and add it
 back to your cart. Since this is something I aimed to fix from the start, I wanted to go back and
 separate the options into their own links which take you back to the customization page. In doing so,
 I created distinct links for each option that could be clicked in the final prototype. However, I
-did not implement more than one topping to the item page, so the effect of this was somewhat lost
+did not implement more than one topping to the item page, so the effect of this was somewhat lost,
 and it became another abstract representation that didn&#x27;t translate well to the prototype. Additionally,
-these links are still quite small and close together which is something I would adress given future
+these links are still quite small and close together which is something I would address given future
 iteration.</p><p></p>
 <p></p><p>Another thing I noticed during testing was that I did not like the look of the thicker divider
 which separates major page elements (such as the favorites from restaurant/item groups). It did
 not have the negative space effect I intended for it to have. This stood out to me as just a block of
-gray on the page which looks poor. I found the sizing to be okay, so I wasn&#x27;t fully sure why it didn&#x27;t
+gray on the page which looked poor. I found the sizing to be okay, so I wasn&#x27;t fully sure why it didn&#x27;t
 give the effect I wanted. After looking at other apps for inspiration, I realized that the main issue
 was that it didn&#x27;t fit the color scheme of the app. I was using gray to attempt to portray negative
 space in an app that used all off-white backgrounds. By changing the color of the divider to something
@@ -145,9 +146,9 @@ negative space feeling I was looking for. I&#x27;m quite happy with how this tur
 prototype, and I wouldn&#x27;t adjust it further.</p><p></p>
 <p></p><p>For a final example of a change I made from user testing, I decided to shrink some of the headers
 as previously mentioned. This was in part due to feedback from one colleague of mine, but I also
-had my own feelings that they were too much in some areas and didn&#x27;t allow for as many other
+had my own feelings that they were too large in some areas and didn&#x27;t allow for as many other
 elements on the page as there should&#x27;ve been. However, most testers actually commented that they
-liked how large the text was, and that if I were to decrease it, I should be very careful with
+liked how large the text was and that if I were to decrease it, I should be very careful with
 doing so. I only decreased the font by a few points, and I think the app is better off for it.
 It made room for more elements on the page, but it still retained the large and easy-to-read
 aspects that many testers enjoyed.</p><p></p>
@@ -156,19 +157,22 @@ aspects that many testers enjoyed.</p><p></p>
 design system. While there is still a lot more to be done to make this a polished design for
 a production application, I&#x27;m happy with the progress I&#x27;ve made as a designer through this
 project, and I&#x27;ve chosen to stop here. It feels like I&#x27;ve accrued too much tech debt
-to get the prototype where it currently is, and I would rather start from scratch than
-continue to work from the mistakes I made from the start (especially with my initial poor
+to get the prototype to its current state, and I would rather start from scratch than
+continue to work on top of the mistakes I made from the start (especially with my initial poor
 understanding of Figma components). Ultimately, I feel that it still captures the simplicity
 that I aimed for from the beginning, and I&#x27;m glad to have been able to maintain a better
 focus on health than the current application by including a space for caloric information
 as well as full nutrition details if provided. Below, you can view the final design
-system:</p><p></p></div><iframe style="height:45vh" width="100%" src="https://embed.figma.com/design/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=0-1&amp;embed-host=share"></iframe><p style="margin:2rem 0">In the final prototype below, you will find that the overall workflow has not been adjusted much from the initial iteration. Some additional features have been added such as the abilities to choose whether you card should be saved or not and to change the topping on an item as I felt these were both important aspects to have functional in the final prototype. Overall, the other changes besides those described in the section above include minor polishing of things like spacing and borders. Had I committed more time to this project, I would have liked to start weakening and outright removing many of the hard black borders on elements as I was given feedback on how this makes it look a bit dated. I agree with this assessment, but that was how I envisioned it from the start. I didn&#x27;t realize how much sleeker things could look by simply removing borders until I made this change to the green confirmation buttons on the app. I chose to keep this change as it looks good on its own, but I would&#x27;ve needed to make changes to so many elements of the design system to give the rest of the elements a consistent look and feel with lesser borders. This realization came when I was already beginning to sunset the project unfortunately.</p><div style="text-align:center" width="100%"><iframe style="border:1px solid rgba(0, 0, 0, 0.1)" width="54%" height="800" src="https://embed.figma.com/proto/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=96-1848&amp;node-type=canvas&amp;scaling=contain&amp;content-scaling=fixed&amp;starting-point-node-id=96%3A1035&amp;embed-host=share"></iframe></div><h2 id="conclusion">Conclusion</h2>
+system:</p><p></p></div><iframe style="height:45vh" width="100%" src="https://embed.figma.com/design/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=0-1&amp;embed-host=share"></iframe><p style="margin:2rem 0">In the final prototype below, you will find that the overall workflow has not been adjusted much from the initial iteration. Some additional features have been added such as the abilities to choose whether your card should be saved or not and to change the topping of an item as I felt these were both important aspects to have functional in the final prototype. Overall, the other changes besides those described in the section above include minor polishing of things like spacing and borders. Had I committed more time to this project, I would have liked to start weakening and outright removing many of the hard black borders on elements as I was given feedback on how this makes it look a bit dated. I agree with this assessment, but that was how I envisioned it from the start. I didn&#x27;t realize how much sleeker things could look by simply removing borders until I made this change to the green confirmation buttons on the app. I chose to keep this change as it looks good on its own, but I would&#x27;ve needed to make changes to so many elements of the design system to give the rest of the elements a consistent look and feel with lesser borders. Unfortunately, this realization came when I was already beginning to sunset the project.</p><div style="text-align:center" width="100%"><iframe style="border:1px solid rgba(0, 0, 0, 0.1)" width="54%" height="800" src="https://embed.figma.com/proto/o7e4LOpFPTZs2VxY1IkdzQ/Mobile-Order-Design-System?node-id=96-1848&amp;node-type=canvas&amp;scaling=contain&amp;content-scaling=fixed&amp;starting-point-node-id=96%3A1035&amp;embed-host=share"></iframe></div><h2 id="conclusion">Conclusion</h2>
 <p></p><p>Though I&#x27;ve ended this project in a less polished state than I would have liked to, I&#x27;m still
 grateful for the lessons I&#x27;ve learned. I&#x27;ve identified that while I&#x27;m happy with my ability to
 identify problems, brainstorm solutions, and design general layouts, I still struggle
 with the fine arts and prototyping aspects of design. I can picture a great design in my head,
 but I struggle to put it to paper (metaphorically) in a way that is satisfying to my goals.
+I will also be able to approach any future projects with the knowledge that users expect
+prototypes to be less abstract than I initially viewed them, and I should have a plan for
+anything that I decide to use as a placeholder or to fill space.
 I hope to continue to iterate on these weaknesses through future projects in an attempt to
-round out my skills as a designer and developer.</p><p></p></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Projects</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/jake-ui-portfolio/projects/mobile-order">Mobile Order Project</a></li></ul></div><div class="col footer__col"><div class="footer__title">Blog</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/jake-ui-portfolio/blog">Latest Blog Post</a></li></ul></div><div class="col footer__col"><div class="footer__title">Community</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://github.com/jnichols12/jake-ui-portfolio" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Jake Nichols UI Portfolio. Built with Docusaurus.</div></div></div></footer></div>
+round out my skills as a designer and a developer.</p><p></p></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Projects</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/jake-ui-portfolio/projects/mobile-order">Mobile Order Project</a></li></ul></div><div class="col footer__col"><div class="footer__title">Blog</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/jake-ui-portfolio/blog">Latest Blog Post</a></li></ul></div><div class="col footer__col"><div class="footer__title">Community</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://github.com/jnichols12/jake-ui-portfolio" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Jake Nichols UI Portfolio. Built with Docusaurus.</div></div></div></footer></div>
 </body>
 </html>
