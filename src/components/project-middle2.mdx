@@ -1,0 +1,113 @@
+---
+title: Project Middle 2
+---
+
+<p style={{marginTop: "2rem"}}>
+	The first iteration of the prototype was quite rough as I was really struggling to get my
+	bearings in Figma, and I couldn't figure out how to make my app properly fit a device frame.
+	Part of this was down to the dimensions of my app, but it also depended on a silly decision
+	I made by showing tiles leading off the page in an attempt to indicate that they were
+	scrollable. Though this made sense in my head at the time, the only way I could think to do
+	this was to cover the cut off portions with a black box. I didn't learn until later that
+	there are techniques to make something properly scrollable in Figma, and by that point,
+	I scrapped the idea and moved away from scrolling entirely. Once I figured out the 
+	issue with my dimensions being too short, it already felt too late in the project to
+	fully redesign multiple pages or extend the content to fit the dimensions of a real
+	phone, so I unframed the prototype and continued on which you will see in the final
+	prototype.
+</p>
+
+## User Testing & Iteration
+
+<p>
+	Upon completing the early prototype, I began user testing with colleagues of mine also
+	interested in design as well as possible end-users. These were all college students who had at least some familiarity
+	with the current mobile-ordering app, but not all of them use or have used the app personally.
+	Testers were read a script which outlined the parameters of the test such as how the data
+	would be used and who would have access to it (which was basically just me). I then asked
+	the testers to attempt to place an order through the app while speaking their thought
+	process out loud as well as anything that stood out to them as a strength or
+	weakness of the design. 
+	I admittedly did not gain as much feedback during this initial session as I would have liked.
+	I was given generally positive feedback about the layout and overall simplicity of the app
+	which is a positive as that was a core value from the start, but I was hoping for more issues
+	to be pointed out besides the prototype not fitting the frame and other things of that nature.
+	Ultimately, I feel I learned the most by reflecting on how people attempted to interact with the
+	app rather than what they told me.
+</p>
+
+<p>
+	For example, every user who tested the prototype tried to click the order confirmation button before
+	filling out credit card info. In some sense, this was a kayak problem that everyone
+	recovered from shortly after. However, fixing the confirm button was a trivial point to avoid
+	something that every user who tested the app was running into. At the time, the button was still
+	green, but it was translucent in an attempt to communicate that it couldn't be used yet. After
+	bringing it up to one of my colleagues that every user had done that so far, he suggested that
+	I make the button gray rather than translucent. I took this feedback and implemented this small
+	change. Though I would still see some users immediately click the button only to realize that
+	they must first set up the payment info, it decreased the number of users who thought this was
+	a clickable button overall.
+</p>
+
+<p>
+	As it was an elephant in the room, I then chose to address the poor framing and centering of
+	the prototype. As mentioned above, I never fully fixed this problem as even the current prototype
+	is not long enough to fit a real mobile device frame. However, the original implementation was
+	so glaringly bad that I had to scrap it by ceasing to pretend that restaurants and items would
+	be scrollable. I then removed the frame as I figured having no frame was better than it being
+	poorly framed. This is still how it's done in the final prototype unfortunately.
+</p>
+
+<p>
+	I also realized during testing that I didn't do anything to alleviate one of my core issues with the
+	real app. My prototype just listed the item options (e.g. toppings) as text that
+	can't be selected individually to edit one without worrying about the rest. In the current app, you
+	must go through context menus for every option/topping on the item to edit a single one and add it
+	back to your cart. Since this is something I aimed to fix from the start, I wanted to go back and 
+	separate the options into their own links which take you back to the customization page. In doing so, 
+	I created distinct links for each option that could be clicked in the final prototype. However, I
+	did not implement more than one topping to the item page, so the effect of this was somewhat lost
+	and it became another abstract representation that didn't translate well to the prototype. Additionally,
+	these links are still quite small and close together which is something I would adress given future
+	iteration.
+</p>
+
+<p>
+	Another thing I noticed during testing was that I did not like the look of the thicker divider
+	which separates major page elements (such as the favorites from restaurant/item groups). It did
+	not have the negative space effect I intended for it to have. This stood out to me as just a block of
+	gray on the page which looks poor. I found the sizing to be okay, so I wasn't fully sure why it didn't 
+	give the effect I wanted. After looking at other apps for inspiration, I realized that the main issue
+	was that it didn't fit the color scheme of the app. I was using gray to attempt to portray negative
+	space in an app that used all off-white backgrounds. By changing the color of the divider to something
+	derived from the off-white background but more pale and subdued, I was able to better achieve the
+	negative space feeling I was looking for. I'm quite happy with how this turned out in the final
+	prototype, and I wouldn't adjust it further.
+</p>
+
+<p>
+	For a final example of a change I made from user testing, I decided to shrink some of the headers
+	as previously mentioned. This was in part due to feedback from one colleague of mine, but I also
+	had my own feelings that they were too much in some areas and didn't allow for as many other
+	elements on the page as there should've been. However, most testers actually commented that they
+	liked how large the text was, and that if I were to decrease it, I should be very careful with
+	doing so. I only decreased the font by a few points, and I think the app is better off for it.
+	It made room for more elements on the page, but it still retained the large and easy-to-read
+	aspects that many testers enjoyed.
+</p>
+
+## Final Design System and Prototype
+
+<p>
+	With the iteration from user testing done, I was able to put the finishing touches on my
+	design system. While there is still a lot more to be done to make this a polished design for
+	a production application, I'm happy with the progress I've made as a designer through this
+	project, and I've chosen to stop here. It feels like I've accrued too much tech debt
+	to get the prototype where it currently is, and I would rather start from scratch than
+	continue to work from the mistakes I made from the start (especially with my initial poor
+	understanding of Figma components). Ultimately, I feel that it still captures the simplicity
+	that I aimed for from the beginning, and I'm glad to have been able to maintain a better
+	focus on health than the current application by including a space for caloric information
+	as well as full nutrition details if provided. Below, you can view the final design
+	system:
+</p>
